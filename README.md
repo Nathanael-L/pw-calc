@@ -1,3 +1,4 @@
+# pw-calc
 password generator:
 usage: pw.py <number of characters> <number of passes> [<mode>]
 mode 0: only numbers
